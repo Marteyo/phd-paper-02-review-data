@@ -16,7 +16,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-5429-0416"
     affiliation: "Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València"
 license: CC-BY-4.0
-version: "1.0"
+version: "1.1"
 keywords:
   - UAV
   - path planning

@@ -1,7 +1,7 @@
 {
   "upload_type": "dataset",
   "title": "Data for: UAV mission planning for large-scale scanning of GNSS-degraded environments: a systematic review",
-  "description": "Search strings, title/abstract screening decisions, full-text eligibility decisions with reasons, and coding of the 111 articles of the final set of a PRISMA 2020 systematic review on UAV mission planning for large-scale scanning of GNSS-degraded (under-canopy forest and urban) environments.",
+  "description": "Search strings, title/abstract screening decisions, full-text eligibility decisions with reasons, and coding of the 112 articles of the final set of a PRISMA 2020 systematic review on UAV mission planning for large-scale scanning of GNSS-degraded (under-canopy forest and urban) environments.",
   "creators": [
     {"name": "Terol, Marcos", "orcid": "0000-0002-3971-9851", "affiliation": "Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València"},
     {"name": "Gomez-Gasquet, Pedro", "orcid": "0000-0002-9184-6735", "affiliation": "Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València"},

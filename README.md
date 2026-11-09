@@ -14,7 +14,7 @@ All tables are provided as UTF-8 CSV files in `data/` and combined in `data/supp
 | `S2_title_abstract_screening.csv` | The 751 unique records screened on title and abstract, with decision and exclusion reason. |
 | `S2b_pilot_search_F7.csv` | The 65 records of the pilot search F7 and their screening. |
 | `S3_full_text_eligibility.csv` | The 288 records pre-selected for eligibility assessment: whether they were assessed on full text or on title/abstract, decision, eligibility criterion (E1–E6, location-routing rule, positioning rule), reason and a short supporting quotation with page. |
-| `S4_coding_final_set.csv` | Coding of the 111 articles of the final set along the dimensions of the review codebook (thematic block, problem, formulation, method, fleet, reported scale, validation, environment, GNSS, energy or bases, integrated location-routing, contribution). |
+| `S4_coding_final_set.csv` | Coding of the 112 articles of the final set along the dimensions of the review codebook (thematic block, problem, formulation, method, fleet, reported scale, validation, environment, GNSS, energy or bases, integrated location-routing, contribution). |
 
 ## Notes
 
@@ -28,4 +28,4 @@ The data are released under the [Creative Commons Attribution 4.0 International 
 
 ## How to cite
 
-Please cite the article and this dataset. Citation metadata are given in `CITATION.cff`; the concept DOI [10.5281/zenodo.24089514](https://doi.org/10.5281/zenodo.24089514) always resolves to the latest version (v1.0: [10.5281/zenodo.24089515](https://doi.org/10.5281/zenodo.24089515)).
+Please cite the article and this dataset. Citation metadata are given in `CITATION.cff`; the concept DOI [10.5281/zenodo.24089514](https://doi.org/10.5281/zenodo.24089514) always resolves to the latest version.
