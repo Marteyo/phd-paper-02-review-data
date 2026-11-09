@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24089514.svg)](https://doi.org/10.5281/zenodo.24089514)
+
 # Data for "UAV mission planning for large-scale scanning of GNSS-degraded environments: a systematic review"
 
 This repository contains the search, screening, eligibility and coding data of the systematic review *UAV mission planning for large-scale scanning of GNSS-degraded environments: a systematic review* (Terol, Gomez-Gasquet and Boza; manuscript submitted to *Robotics and Autonomous Systems*). The review follows the PRISMA 2020 statement.
@@ -26,4 +28,4 @@ The data are released under the [Creative Commons Attribution 4.0 International 
 
 ## How to cite
 
-Please cite the article and this dataset. Citation metadata are given in `CITATION.cff`; the DOI is assigned by Zenodo for each release.
+Please cite the article and this dataset. Citation metadata are given in `CITATION.cff`; the concept DOI [10.5281/zenodo.24089514](https://doi.org/10.5281/zenodo.24089514) always resolves to the latest version (v1.0: [10.5281/zenodo.24089515](https://doi.org/10.5281/zenodo.24089515)).
