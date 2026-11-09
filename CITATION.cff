@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the dataset and the associated article."
+type: dataset
+title: "Data for: UAV mission planning for large-scale scanning of GNSS-degraded environments: a systematic review"
+authors:
+  - family-names: Terol
+    given-names: Marcos
+    orcid: "https://orcid.org/0000-0002-3971-9851"
+    affiliation: "Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València"
+  - family-names: Gomez-Gasquet
+    given-names: Pedro
+    orcid: "https://orcid.org/0000-0002-9184-6735"
+    affiliation: "Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València"
+  - family-names: Boza
+    given-names: Andrés
+    orcid: "https://orcid.org/0000-0002-5429-0416"
+    affiliation: "Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València"
+license: CC-BY-4.0
+version: "1.0"
+keywords:
+  - UAV
+  - path planning
+  - GNSS-denied
+  - forest
+  - urban
+  - systematic review
+  - PRISMA
